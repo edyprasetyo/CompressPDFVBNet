@@ -1,0 +1,15 @@
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\bin\Debug\CompressPDFVBNet.exe
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\bin\Debug\CompressPDFVBNet.pdb
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\bin\Debug\CompressPDFVBNet.xml
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\obj\Debug\CompressPDFVBNet.Resources.resources
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\obj\Debug\CompressPDFVBNet.vbproj.GenerateResource.cache
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\obj\Debug\CompressPDFVBNet.exe
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\obj\Debug\CompressPDFVBNet.xml
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\obj\Debug\CompressPDFVBNet.pdb
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\bin\Debug\GhostScript\gsdll64.dll
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\bin\Debug\GhostScript\gswin64.exe
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\bin\Debug\GhostScript\gswin64c.exe
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\bin\Debug\GhostScript\gsdll64.lib
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\bin\Debug\input\input.pdf
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\bin\Debug\input\input1.pdf
+D:\MyProject\CompressPDFVBNet\CompressPDFVBNet\bin\Debug\input\input2.pdf
